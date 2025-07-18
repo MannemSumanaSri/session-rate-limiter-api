@@ -22,7 +22,16 @@ This project demonstrates:
 
 ---
 
+## 📊 API Documentation
+
+Below is the auto-generated Swagger UI from FastAPI:
+
+<img width="1915" height="1022" alt="image" src="https://github.com/user-attachments/assets/543e08ec-83bb-4511-8487-c5dbeafb9a50" />
+
+---
+
 ## How to Run:
 ```bash
 pip install -r requirements.txt
 uvicorn app:app --reload
+
